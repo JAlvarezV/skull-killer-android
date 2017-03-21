@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">SkullKiller</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="jugar">Jugar</string>
+    <string name="instrucciones">Instrucciones</string>
+    <string name="preferencias">Preferencias</string>
+    <string name="salir">Salir</string>
+    <string name="fin">Final de partida</string>
+    <string name="volver_menu">Volver al menú</string>
+    <string name="tutorial">Mueve tu personaje con el acelerómetro y derrota a la horda de calaveras que aparece. Intenta que no lleguen a tu base porque perderás salud. Las calaveras lanzan potentes ataques que pueden herirte e incluso matarte! Ten cuidado con ellos y mata a cuantos puedas. </string>
+    <string name="tutorial_title">Instrucciones de juego</string>
+    <string name="back">Volver atrás</string>
+
+    <!-- OPCIONES -->
+    <string name="options_system_title">Opciones de sistema</string>
+    <string name="options_system_sound">Sonido</string>
+    <string name="options_system_vibra">Vibración</string>
+
+    <string name="options_game_title">Opciones de juego</string>
+    <string name="options_game_dific">Dificultad</string>
+    <string name="options_game_dific2">Elige el nivel de dificultad</string>
+
+    <string name="options_game_easy">Fácil</string>
+    <string name="options_game_mid">Medio</string>
+    <string name="options_game_hard">Difícil</string>
+
+</resources>

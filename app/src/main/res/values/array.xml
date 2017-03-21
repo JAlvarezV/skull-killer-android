@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="dificultad">
+        <item>@string/options_game_easy</item>
+        <item>@string/options_game_mid</item>
+        <item>@string/options_game_hard</item>
+    </array>
+    <array name="dificultad_valores">
+        <item>"1"</item>
+        <item>"2"</item>
+        <item>"3"</item>
+    </array>
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory
+        android:title="@string/options_system_title">
+        <CheckBoxPreference
+            android:key="pSonido"
+            android:title="@string/options_system_sound"
+            android:defaultValue="true"
+            android:checked="true"/>
+        <CheckBoxPreference
+            android:key="pVibrar"
+            android:title="@string/options_system_vibra"
+            android:defaultValue="true"
+            android:checked="true"/>
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="@string/options_game_title">
+        <ListPreference
+            android:entries="@array/dificultad"
+            android:entryValues="@array/dificultad_valores"
+            android:key="pDificultad"
+            android:title="@string/options_game_dific"
+            android:summary="@string/options_game_dific2"/>
+    </PreferenceCategory>
+</PreferenceScreen>
